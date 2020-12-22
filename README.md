@@ -7,7 +7,7 @@ git clone https://github.com/tsoibet/task-management-site-2.git
 3. Move to the folder `cd task-management-site-2`
 3. Start DB and Adminer `docker-compose up -d db adminer`
 4. Start flask and nginx `docker-compose up web nginx`
-5. Browse to `http://localhost:1337/` to check the sample page
+5. Browse to `http://localhost:8080/` to check the sample page
 
 Now you are ready to start!
 
