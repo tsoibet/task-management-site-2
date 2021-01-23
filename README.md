@@ -232,8 +232,8 @@ The updated task will be return, in JSON object format:
 POST /api/task/del/&lt;id&gt;
 </pre>
 </td>
-Delete a specific task. If a correct id is provided, the task with the provided id will be delete in DB.
 <td>
+Delete a specific task. If a correct id is provided, the task with the provided id will be delete in DB.
 </td>
 <td>
 Accept path parameters:
