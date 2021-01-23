@@ -229,7 +229,7 @@ The updated task will be return, in JSON object format:
 <tr>
 <td>
 <pre>
-POST /api/task/&lt;id&gt;
+POST /api/task/del/&lt;id&gt;
 </pre>
 </td>
 Delete a specific task. If a correct id is provided, the task with the provided id will be delete in DB.
